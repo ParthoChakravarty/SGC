@@ -1,0 +1,2 @@
+# SGC
+Student Grade Calculator
